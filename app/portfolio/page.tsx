@@ -13,7 +13,7 @@ type Game = {
 const teamGames: Game[] = [
   {
     title: "Wispguard",
-    image: "/images/Wispguard.jpg",
+    image: "/images/WispGuard.jpg",
     description: "A 3D tower defense game developed by Flintlock Games. I was responsible for implementing the user interface, contributing minor scripting, and playtesting the game for bugs and gameplay balance.",
     qaRole: "Playtested both in the Unity Editor and in standalone builds, and reported bugs directly to the lead programmer.",
     tags: ["Unity", "C#", "Team Project", "3D"],
