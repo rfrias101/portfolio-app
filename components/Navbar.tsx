@@ -45,7 +45,7 @@ export default function Navbar() {
 
           <li>
             <Link
-              href="/contact"
+              href="/contacts"
               className="relative inline-block px-4 sm:px-5 py-1.5 border border-[#D4AF37] text-[#D4AF37] rounded-lg overflow-hidden group hover:scale-105 transition-all duration-300"
             >
               <span className="absolute inset-0 bg-[#D4AF37] transform -translate-x-full group-hover:translate-x-0 transition-transform duration-300"></span>
