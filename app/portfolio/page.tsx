@@ -52,7 +52,7 @@ const soloGames: Game[] = [
 const models = [
   {
     title: "Golem",
-    image: "/images/Golem.png",
+    image: "/images/models/Golem.png",
     note: "A 3D Model of a golem. Made in blender with the guidance of UV wrapping and textured through substance painter.",
   },
   {
